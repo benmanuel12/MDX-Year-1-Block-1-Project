@@ -1,0 +1,1 @@
+("6.7" ("0f9ad7478c5bb3a8c3fa5b39c342e5417cd849cf" . "1572de8004071af0fc68a6754b638096adb675c9") #"C:\\Users\\broth\\Desktop\\Traffic Light Challenge Notes and Examples-20181105\\AsipMain.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
